@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/memoapp/static/css/main.7dbcbc04.chunk.css",
+    "main.js": "/memoapp/static/js/main.2c0b78f4.chunk.js",
+    "main.js.map": "/memoapp/static/js/main.2c0b78f4.chunk.js.map",
+    "runtime-main.js": "/memoapp/static/js/runtime-main.e31aa541.js",
+    "runtime-main.js.map": "/memoapp/static/js/runtime-main.e31aa541.js.map",
+    "static/js/2.9d93751d.chunk.js": "/memoapp/static/js/2.9d93751d.chunk.js",
+    "static/js/2.9d93751d.chunk.js.map": "/memoapp/static/js/2.9d93751d.chunk.js.map",
+    "index.html": "/memoapp/index.html",
+    "precache-manifest.fef06dc703650bdca1a6202a1f6eaa20.js": "/memoapp/precache-manifest.fef06dc703650bdca1a6202a1f6eaa20.js",
+    "service-worker.js": "/memoapp/service-worker.js",
+    "static/css/main.7dbcbc04.chunk.css.map": "/memoapp/static/css/main.7dbcbc04.chunk.css.map",
+    "static/js/2.9d93751d.chunk.js.LICENSE.txt": "/memoapp/static/js/2.9d93751d.chunk.js.LICENSE.txt",
+    "static/media/memoriesLogo.png": "/memoapp/static/media/memoriesLogo.dc8bbfe3.png",
+    "static/media/memoriesText.png": "/memoapp/static/media/memoriesText.2b89c5fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31aa541.js",
+    "static/js/2.9d93751d.chunk.js",
+    "static/css/main.7dbcbc04.chunk.css",
+    "static/js/main.2c0b78f4.chunk.js"
+  ]
+}
